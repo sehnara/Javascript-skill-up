@@ -25,6 +25,8 @@
 1. [BubbleSort](https://github.com/sehnara/Javascript-skill-up/blob/master/Algorithm/bubbleSort.md)
 
 2. [Combination](https://github.com/sehnara/Javascript-skill-up/blob/master/Algorithm/combination.md)
+
+3. [BinarySearch](https://github.com/sehnara/Javascript-skill-up/blob/master/Algorithm/binarySearch.md)
 ---
 
 ### 자바스크립트 언어 정리
