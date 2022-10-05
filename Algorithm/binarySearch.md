@@ -6,8 +6,8 @@
 
 ### 원리
 
-- 변수 정의
-- 배열(arr), 첫 번째 인덱스(start), 마지막 인덱스(end), start와 end의 중간 인덱스(mid), 특정값(N)
+- 변수 정의 : 배열(arr), 첫 번째 인덱스(start), 마지막 인덱스(end), start와 end의 중간 인덱스(mid), 특정값(N)
+
 - arr[mid]와 N이 같은 지 확인한다.
 - arr[mid] === N, return mid
 - arr[mid] > N, start = mid + 1
