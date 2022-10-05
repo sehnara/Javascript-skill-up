@@ -18,6 +18,7 @@
 
 ### 자료구조 정리
 
+- 1. [BubbleSort](https://github.com/sehnara/Javascript-skill-up/blob/master/datastructure/bubbleSort.md)
 
 ---
 
