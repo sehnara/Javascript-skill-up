@@ -18,6 +18,8 @@
 
 ### 자료구조 정리
 1. [LinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/linkedList.md)
+2. [DoubleLinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/doubleLinkedList.md)
+3. **[CircularLinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/circleLinkedList.md)**
 ---
 
 ### 알고리즘 정리
