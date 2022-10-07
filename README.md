@@ -17,7 +17,7 @@
 ---
 
 ### 자료구조 정리
-
+1. [LinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/linkedList.md)
 ---
 
 ### 알고리즘 정리
@@ -29,8 +29,9 @@
 3. [BinarySearch](https://github.com/sehnara/Javascript-skill-up/blob/master/Algorithm/binarySearch.md)
 ---
 
-### 자바스크립트 언어 정리
+### 자바스크립트 문법 정리
 
+1. [클래스](https://github.com/sehnara/Javascript-skill-up/blob/master/Grammar/class.md)
 ---
 
 ### 알고리즘 별 문제 풀이
