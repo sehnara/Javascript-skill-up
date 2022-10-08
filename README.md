@@ -20,7 +20,7 @@
 1. [LinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/linkedList.md)
 2. [DoubleLinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/doubleLinkedList.md)
 3. **[CircularLinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/circleLinkedList.md)**
-4. [heap](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/heap.md) 
+4. **[Heap](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/heap.md)**
 ---
 
 ### 알고리즘 정리
