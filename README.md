@@ -20,7 +20,7 @@
 1. [LinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/linkedList.md)
 2. [DoubleLinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/doubleLinkedList.md)
 3. **[CircularLinkedList](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/circleLinkedList.md)**
-4. **[Heap](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/heap.md)**
+4. [Heap](https://github.com/sehnara/Javascript-skill-up/blob/master/DataStructure/heap.md)
 ---
 
 ### 알고리즘 정리
@@ -39,17 +39,9 @@
 
 ### 알고리즘 별 문제 풀이
 
-| 순번 |      알고리즘       | 이코테 PART 02 | 이코테 PART 03 |
+| 순번 |      그리디       | 정렬 | 이코테 PART 03 |
 | :--: | :-----------------: | :------------: | :------------: |
-|  1   |       그리디        |   CHAPTER 03   |   CHAPTER 11   |
-|  2   |        구현         |   CHAPTER 04   |   CHAPTER 12   |
-|  3   |       DFS/BFS       |   CHAPTER 05   |   CHAPTER 13   |
-|  4   |      버퍼 (\*)      |      N/A       |      N/A       |
-|  5   |        정렬         |   CHAPTER 06   |   CHAPTER 14   |
-|  6   |      이진 탐색      |   CHAPTER 07   |   CHAPTER 15   |
-|  7   | 다이나믹 프로그래밍 |   CHAPTER 08   |   CHAPTER 16   |
-|  8   |      버퍼 (\*)      |      N/A       |      N/A       |
-|  9   |      최단 경로      |   CHAPTER 09   |   CHAPTER 17   |
-|  10  |     그래프 이론     |   CHAPTER 10   |   CHAPTER 18   |
+|  1   |  |    |    |
+
 
 
