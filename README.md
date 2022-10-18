@@ -31,7 +31,7 @@
 
 3. [BinarySearch](https://github.com/sehnara/Javascript-skill-up/blob/master/Algorithm/binarySearch.md)
 
-4. [TopologySort(위상정렬)]
+4. [TopologySort(위상정렬)](https://github.com/sehnara/Javascript-skill-up/blob/master/Algorithm/Topology.md)
 ---
 
 ### 자바스크립트 문법 정리
