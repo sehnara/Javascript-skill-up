@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/49993
+
 function solution(skill, skill_trees) {
     var answer = 0;
     const skillOrder = new Map()
